@@ -1,0 +1,6 @@
+device,modsim001,1,,
+ref,holding_reg01,3000,uint32,r
+ref,holding_reg02,3002,int32,r
+ref,holding_reg03,3004,int16,r
+ref,holding_reg04,3016,uint16,r
+ref,holding_reg05,3012,int16,r
