@@ -1,4 +1,5 @@
 device,modsim001,1,,
+poll,holding_register,3000,20,BE_BE
 ref,holding_reg01,3000,uint32,r
 ref,holding_reg02,3002,int32,r
 ref,holding_reg03,3004,int16,r
